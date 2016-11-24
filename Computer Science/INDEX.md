@@ -1,4 +1,4 @@
-Alphabetized Index 
+#Alphabetized Index 
 
 [Kaye, Richard W. - Infinite versions of minesweeper are Turing complete (2007)](Computer Science/Kaye, Richard W. - Infinite versions of minesweeper are Turing complete (2007))
 "Infinite versions of minesweeper are Turing Complete"
